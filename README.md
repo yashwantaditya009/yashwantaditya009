@@ -1,4 +1,4 @@
-[![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-9665ca3826.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/yashwantaditya009/yashwantaditya009/main/image/ezgif-5-2687cb1c0a.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yashwant Aditya</h1>
 <h3 align="center">Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
