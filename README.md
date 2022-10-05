@@ -31,8 +31,8 @@
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/yashwantaditya009/yashwantaditya009/0c66446d4b5686831c94e34b55df7963713f4f0a/image/snake.svg)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwantaditya009&show_icons=true&locale=en&layout=compact" alt="yashwantaditya009" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwantaditya009&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yashwantaditya009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwantaditya009&show_icons=true&locale=en" alt="yashwantaditya009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwantaditya009&show_icons=true&locale=en&theme=tokyonight" alt="yashwantaditya009" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantaditya009&" alt="yashwantaditya009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantaditya009&&theme=tokyonight" alt="yashwantaditya009" /></p>
