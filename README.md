@@ -12,7 +12,7 @@
 - 💬 Ask me about **Data Visualization, Data Analysis, Model training**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/yashwant-kumar-aditya-4753151b5/)**
-- My [Portfoio](https://yashwantaditya009.github.io/My_Portfolio/) <a href="https://yashwantaditya009.github.io/My_Portfolio/" target="blank"><img align="center" src="https://github.com/yashwantaditya009/My_Portfolio/blob/master/assets/images/new.4.png" alt="yashwant kumar aditya" height="30" width="40" /></a> 
+- My [Portfoio](https://ambitious-stone-042319910.2.azurestaticapps.net/) <a href="https://ambitious-stone-042319910.2.azurestaticapps.net/" target="blank"><img align="center" src="https://github.com/yashwantaditya009/My_Portfolio/blob/master/assets/images/new.4.png" alt="yashwant kumar aditya" height="30" width="40" /></a> 
 
 
 <h3 align="left">Connect with me:</h3>
